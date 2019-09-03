@@ -1,6 +1,6 @@
 {
   "name": "react-native-flic-nonpbf",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Implement Flic (non PBF) into your React-Native app",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
   "license": "GNU v3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mdahiemstra/react-native-flic-nonpbf.git"
+    "url": "https://github.com/x-guard/react-native-flic-nonpbf.git"
   },
   "peerDependencies": {
     "react-native": "^0.41.2"
