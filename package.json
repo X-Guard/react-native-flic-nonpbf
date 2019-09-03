@@ -1,5 +1,5 @@
 {
-  "name": "react-native-flic-nonpbf",
+  "name": "@x-guard/react-native-flic-nonpbf",
   "version": "1.0.2",
   "description": "Implement Flic (non PBF) into your React-Native app",
   "main": "index.js",
